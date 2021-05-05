@@ -1,0 +1,50 @@
+body{
+    background: lime;
+}
+
+.block{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    background: red;
+    display: flex;
+}
+
+.search_block{
+    width: auto;
+    height: 50px;
+    background: #000;
+}
+.Text{
+    width: 200px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.table_add{
+    width: auto;
+    height: 450px;
+    background: #000;
+    border: 2px solid white;
+}
+.add{
+    width: 250px;
+    height: 450px;
+    background: black;
+    border: 2px solid red;
+}
+.id{
+    margin-left: 20px;
+}
+.id,.User,.User_id{
+    width: 150px;
+    height: 20px;
+    margin: 10px;
+}
+.add_button{
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 150px;
+}
